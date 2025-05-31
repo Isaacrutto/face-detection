@@ -34,3 +34,4 @@ if img1 and img2:
         except Exception as e:
             st.error(f"⚠️ An error occurred: {e}")
 # Commit 2 - UI edit
+# Commit 1: Add header comment for tracking
