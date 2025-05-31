@@ -37,3 +37,4 @@ if img1 and img2:
 # Commit 1: Add header comment for tracking
 # Commit 2: Improve code readability
 # Commit 3: Placeholder for logging
+# Commit 4: Preparation for error handling
